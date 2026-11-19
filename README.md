@@ -217,6 +217,11 @@ Through this project, I gained practical experience with:
 ### 3. VirusTotal Enrichment in Splunk
 ![VirusTotal Enrichment](screenshots/splunk-virustotal-enrichment.png)
 
+##Splunk Dashboard
+![splunk dashboard](screenshots/splunk_threat_intelligence_dashboard.png)
+
+![splunk dashboard](screenshots/splunk_threat_intelligence_dashboard(2).png)
+
 ## Disclaimer
 
 This project was developed for educational and cybersecurity lab purposes.

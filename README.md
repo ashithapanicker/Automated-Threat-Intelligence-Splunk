@@ -206,6 +206,17 @@ Through this project, I gained practical experience with:
 - Event ingestion and SPL searches.
 - Building a small-scale SOC monitoring workflow.
 
+## Project Screenshots
+
+### 1. Collector Execution
+![Collector Execution](screenshots/collector-execution.png)
+
+### 2. IOC Events in Splunk
+![IOC Events](screenshots/splubk-ioc-events.png)
+
+### 3. VirusTotal Enrichment in Splunk
+![VirusTotal Enrichment](screenshots/splunk-virustotal-enrichment.png)
+
 ## Disclaimer
 
 This project was developed for educational and cybersecurity lab purposes.
